@@ -43,6 +43,11 @@
 ### npm i react-scripts
 ### npm run start
 
+## Screenshots
+![q3](https://github.com/DWE-CLOUD/Mindify/assets/85799123/436535ca-8fad-495f-9ae4-29ece332bc88)
+![q1](https://github.com/DWE-CLOUD/Mindify/assets/85799123/558d39d3-5073-42bb-b83c-a8e00b665560)
+![q2](https://github.com/DWE-CLOUD/Mindify/assets/85799123/18bffd9f-4431-4ec9-809a-ae983fd40b2e)
+
 
 ## License
 
